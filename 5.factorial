@@ -7,7 +7,7 @@ unsigned long long factorial(int n) {
 }
 
 int main() {
-		printf("chandana (192210505)\n");
+		printf("tharish (192211485)\n");
     int num;
     unsigned long long result;
     printf("Enter an integer: ");
