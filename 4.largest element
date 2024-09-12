@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-	printf("chandana(192210505)\n");
+	printf("tharish(192211485)\n");
     int n, i;
     int max;
     printf("Enter the number of elements in the array: ");
