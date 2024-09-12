@@ -26,7 +26,7 @@ int tsp(int graph[N][N], int dp[1 << N][N], int mask, int pos) {
 }
 
 int main() {
-	printf("chandana (192210505\n"); 
+	printf("tharish (192211485\n"); 
     int graph[N][N] = {
         {0, 10, 15, 20},
         {10, 0, 35, 25},
